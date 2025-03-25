@@ -110,10 +110,6 @@ Este projeto inclui exemplos de testes unitários e de integração. Para execut
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
 
 Para mais informações, entre em contato através do email: [fabio.carvalho@cs.unipe.edu.br](mailto:fabio.carvalho@cs.unipe.edu.br).
